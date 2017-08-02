@@ -1,7 +1,5 @@
 # Learning TensorFlow
 
-This repository provides code and exercises for learning TensorFlow and is meant to serve as a personal learning tool.
-
 ## Overview
 
 TensorFlow is a software library for numerical computation, particularly large-scale machine learning. The basic principle is simple: you first define a computational graph in Python and then TensorFlow runs it efficiently using optimized C++
