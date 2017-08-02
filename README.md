@@ -1,6 +1,6 @@
 # Learning TensorFlow
 
-It repository provides code, exercises for learning TensorFlow and is meant to serve as a personal learning tool.
+This repository provides code and exercises for learning TensorFlow and is meant to serve as a personal learning tool.
 
 ## Overview
 
@@ -10,15 +10,15 @@ TensorFlow is a software library for numerical computation, particularly large-s
 
 First activate your favorite isolated environment e.g. virtualenv or anaconda.
 
-'''
+```
 $ source activate tensorflow
-'''
+```
 
 Next intall TensorFlow
 
-'''
+```
 $ pip install --upgrade tensorflow-gpu
-'''
+```
 
 Test your Installation
 
